@@ -1,0 +1,12 @@
+/*.font-face{*/
+/*  font-family: 'logo';*/
+/*    src: url("/asset/fonts/ReneBiederGentonaExtraBoldDEMO");*/
+/*}*/
+
+.container{
+font-family: 'Montserrat', sans-serif ;
+}
+
+.logo{
+  font-family: 'logo';
+}
